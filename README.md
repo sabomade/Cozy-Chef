@@ -18,6 +18,8 @@ To search for recipes, enter an ingredient like "potato" or a dish such as "burg
 
 To get a conversation starter, click on the text under the search bar that says "In the mood to impress?" From there, a pop-up will ask you to select a topic from the drop-down menu. Then hit enter or get opener button and a fun fact will be displayed.
 
+#### Impress with a fun fact
+
 ![Video of getting a converstation starter](assets/cozyChef-convo1.gif)
 
 ## Built With
