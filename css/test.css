@@ -8,6 +8,15 @@
   text-align: right;
   margin-bottom: 0%;
 }
+.appName {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+.appName img {
+  width: 100px;
+  margin-right: 10px;
+}
 .triviaResult {
   height: 5em;
 }
