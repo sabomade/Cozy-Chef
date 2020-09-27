@@ -8,13 +8,17 @@ Your go to spot for cooking date night ideas! Find the perfect recipe based on i
 
 To search for recipes, enter an ingredient like "potato" or a dish such as "burgers". Hit enter or click the submit button and scroll down to view the top 10 recipes. Click on a image and you'll be taken to the recipe page.
 
+#### Search by Ingredient: Potato
+
 ![Video of how to search for an ingredient](assets/cozyChef-potato.gif)
+
+#### Search by Dish: Burgers
 
 ![Video of how to search for a dish](assets/cozyChef-burgers.gif)
 
 To get a conversation starter, click on the text under the search bar that says "In the mood to impress?" From there, a pop-up will ask you to select a topic from the drop-down menu. Then hit enter or get opener button and a fun fact will be displayed.
 
-![Video of getting a converstation starter](cozyChef-convo1.gif)
+![Video of getting a converstation starter](assets/cozyChef-convo1.gif)
 
 ## Built With
 
