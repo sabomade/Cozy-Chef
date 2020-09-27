@@ -1,57 +1,70 @@
 .jumbotron {
-    background-image: url("../assets/steph.jpg");
-    background-size: cover;
-    /* height: 100%;
+  background-image: url("../assets/steph.jpg");
+  background-size: cover;
+  /* height: 100%;
     width: 100%; */
-    min-height: 900px;
-    color: white;
-    text-align: right;
-    margin-bottom: 0%;
-   }
-.triviaResult{
-    height:5em;
+  min-height: 900px;
+  color: white;
+  text-align: right;
+  margin-bottom: 0%;
 }
-#recipeSearch{
-    margin-top: 275px;
-    background-color: rgba(255, 255, 255, .5);
-    padding: 10px 0;
-    display: flex;
-    justify-content: center;
+.triviaResult {
+  height: 5em;
 }
-
-.form-control-lg{
-    width: 400px;
+#recipeSearch {
+  margin-top: 275px;
+  background-color: rgba(255, 255, 255, 0.5);
+  padding: 10px 0px 5px 0px;
+  display: flex;
+  justify-content: center;
+  flex-flow: column nowrap;
 }
 
-.footer{
+.form-control-lg {
+  width: 400px;
+}
+
+.convoStarter {
+  padding-top: 5px;
+  text-align: center;
+  color: blue;
+  text-decoration-line: none;
+  margin: 0px;
+}
+
+.convoStarter:hover {
+  text-decoration-line: underline;
+}
+
+.footer {
   background-color: gray;
 }
 
 #recipe-results {
-    display: flex;
-    flex-flow: row wrap;
+  display: flex;
+  flex-flow: row wrap;
 }
 
 .recipe {
-    width: 30%;
-    margin: 10px;
-    display: flex;
-    align-items: center;
+  width: 30%;
+  margin: 10px;
+  display: flex;
+  align-items: center;
 }
 
 .rImg {
-    width: 225px;
-    align-items: center;
-    margin: 10px auto;
+  width: 225px;
+  align-items: center;
+  margin: 10px auto;
 }
 
 .title {
-    text-align: center;
+  text-align: center;
 }
 
 .form-inline .form-control {
-    display: inline-block;
-    width: auto;
-    vertical-align: middle;
-    width: 300px;
+  display: inline-block;
+  width: auto;
+  vertical-align: middle;
+  width: 300px;
 }
